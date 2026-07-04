@@ -12,7 +12,7 @@ I'm a passionate Computer Science student who enjoys building real-world applica
 - 💻 Solving DSA problems in Java
 - 🚀 Building Full Stack Projects
 - 🤝 Open to Internship & Collaboration
-- 📫 Reach me at: **yourmail@gmail.com**
+- 📫 Reach me at: **shrutipoddar4444@gmail.com**
 
 ---
 
@@ -62,39 +62,34 @@ I'm a passionate Computer Science student who enjoys building real-world applica
 
 ## 📂 Featured Projects
 
-### 🚀 Nexio
+### 🤖 Gemini ChatBot
+An AI-powered chatbot built using Python and the Gemini API that generates intelligent, context-aware responses.
 
-AI-powered Student Collaboration Platform
+### 📧 Spam Email Detection
+A machine learning project that classifies emails as spam or legitimate using Natural Language Processing (NLP) techniques.
 
-### 🛒 E-Commerce Website
+### 🎯 Object Tracking Using OpenCV
+A computer vision project developed with Python and OpenCV to detect and track objects in real time.
 
-Responsive online shopping website using React
-
-### 🌐 Portfolio Website
-
-Personal developer portfolio
-
-### 🧮 Scientific Calculator
-
-Calculator built using HTML, CSS and JavaScript
+### 🚀 More Projects Coming Soon...
+Currently building Java Backend and Full Stack applications with Spring Boot, React, and MySQL.
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
 ![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shruti-Poddar&show_icons=true&theme=tokyonight&hide_border=true)
 ---
 
-## 🔥 GitHub Streak
+
 
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shruti-Poddar&theme=tokyonight&hide_border=true)
 ---
 
-## 📈 Contribution Graph
+
 
 ## 📈 Contribution Graph
 
